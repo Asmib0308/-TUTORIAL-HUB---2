@@ -2,10 +2,11 @@
   /* add correct code to place the menu correctly.*/
 
   background-color: #f3a285;
-  font-size: 30px;
+  font-size: 20px;
   font-family: abadi;
   font-weight: 400;
   color: white;
+  margin: 10px;
   display: flex;
   justify-content: space-evenly;
 }
@@ -33,7 +34,7 @@ h3{
 li{
   background-color: white;
   text-align: justify;
-  width: 250px;
+  width: 200px;
 }
 .languages{
   border-radius: 20px;
